@@ -9,6 +9,7 @@ import Foundation
 import UIKit
 class SignUP: UIViewController {
     
+    var name = "Sourabh"
     override func viewDidLoad() {
         super.viewDidLoad()
         print("dfdfdfd")
