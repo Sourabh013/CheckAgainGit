@@ -14,6 +14,7 @@
 		E624B2F32C3D2FA60034FB4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E624B2F22C3D2FA60034FB4C /* Assets.xcassets */; };
 		E624B2F62C3D2FA60034FB4C /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E624B2F52C3D2FA60034FB4C /* Base */; };
 		E624B2FE2C3D2FBD0034FB4C /* DemoFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E624B2FD2C3D2FBD0034FB4C /* DemoFile.swift */; };
+		E624B3002C3D31CC0034FB4C /* SignUP .swift in Sources */ = {isa = PBXBuildFile; fileRef = E624B2FF2C3D31CC0034FB4C /* SignUP .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E624B2F52C3D2FA60034FB4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E624B2F72C3D2FA60034FB4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E624B2FD2C3D2FBD0034FB4C /* DemoFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoFile.swift; sourceTree = "<group>"; };
+		E624B2FF2C3D31CC0034FB4C /* SignUP .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SignUP .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E624B2F42C3D2FA60034FB4C /* LaunchScreen.storyboard */,
 				E624B2F72C3D2FA60034FB4C /* Info.plist */,
 				E624B2FD2C3D2FBD0034FB4C /* DemoFile.swift */,
+				E624B2FF2C3D31CC0034FB4C /* SignUP .swift */,
 			);
 			path = CheckAgainGitProject;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E624B3002C3D31CC0034FB4C /* SignUP .swift in Sources */,
 				E624B2EE2C3D2FA50034FB4C /* ViewController.swift in Sources */,
 				E624B2EA2C3D2FA50034FB4C /* AppDelegate.swift in Sources */,
 				E624B2FE2C3D2FBD0034FB4C /* DemoFile.swift in Sources */,
